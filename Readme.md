@@ -1,5 +1,4 @@
-Synder - A collection of programs designed to help me remember syntax
-=====================================================================
+Synder - Help Me Remember Syntax
 
 Description
 -----------
@@ -7,7 +6,7 @@ Description
 A collection of programs designed to help me remember syntax
 
 
-Dependancies
+Dependencies
 ------------
 
 ### Boost
