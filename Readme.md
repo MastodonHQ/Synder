@@ -13,3 +13,4 @@ Dependencies
 ------------
 
 Boost
+Boost Thread
